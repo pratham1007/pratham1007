@@ -1,4 +1,4 @@
-# Hi there, I'm Pratham 👋
+# Hi there, I'm Prathamesh 👋
 
 ### 🚀 Associate@Cognizant | SAP Commerce Cloud & Frontend Specialist
 I specialize in building scalable e-commerce solutions and cloud-native architectures. Currently, I'm focusing on **Headless Commerce** and **AI-driven digital transformation**.
